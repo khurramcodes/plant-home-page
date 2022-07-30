@@ -13,6 +13,7 @@
 ## :clipboard: Learning Outcomes 
 
 - Use of pseudo-classes and psuedo-elements together
+- Use of `::marker` pseudo-element
 - Positioning and resizing of images
 
 ## :camera: Screenshot
